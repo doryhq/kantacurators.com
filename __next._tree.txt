@@ -1,0 +1,3 @@
+:HL["/_next/static/chunks/14or8ex8-oe71.css","style"]
+:HL["/logo-round.png","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"Dl3I45-eDVSzl72c5ZEIN"}

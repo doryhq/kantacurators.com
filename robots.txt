@@ -1,4 +1,5 @@
 User-Agent: *
 Allow: /
 
+Host: https://www.kantacurators.com
 Sitemap: https://www.kantacurators.com/sitemap.xml

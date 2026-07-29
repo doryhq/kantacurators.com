@@ -1,0 +1,9 @@
+1:"$Sreact.fragment"
+2:I[99545,["/_next/static/chunks/11q-3mtsn6em~.js","/_next/static/chunks/00dwf3xlex0q5.js","/_next/static/chunks/0_k13tbjtqnbv.js"],"SiteHeader"]
+3:I[99545,["/_next/static/chunks/11q-3mtsn6em~.js","/_next/static/chunks/00dwf3xlex0q5.js","/_next/static/chunks/0_k13tbjtqnbv.js"],"CollectionGrid"]
+4:I[99545,["/_next/static/chunks/11q-3mtsn6em~.js","/_next/static/chunks/00dwf3xlex0q5.js","/_next/static/chunks/0_k13tbjtqnbv.js"],"WhatsAppLink"]
+5:I[99545,["/_next/static/chunks/11q-3mtsn6em~.js","/_next/static/chunks/00dwf3xlex0q5.js","/_next/static/chunks/0_k13tbjtqnbv.js"],"SiteFooter"]
+6:I[25326,["/_next/static/chunks/11q-3mtsn6em~.js","/_next/static/chunks/00dwf3xlex0q5.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[[["$","$L2",null,{}],["$","main",null,{"id":"main","children":[["$","header",null,{"className":"page-hero","children":[["$","p",null,{"className":"eyebrow","children":"The edit"}],["$","h1",null,{"children":"Collections"}],["$","p",null,{"children":"Explore the types of pieces we create, then continue to our live WhatsApp catalogue for current designs, availability and custom options."}]]}],["$","section",null,{"className":"section","children":["$","$L3",null,{}]}],["$","section",null,{"className":"closing","children":[["$","h2",null,{"children":"See the current catalogue."}],["$","p",null,{"children":"Our WhatsApp catalogue is the most up-to-date place to browse available pieces."}],["$","$L4",null,{"label":"Open WhatsApp catalogue","source":"collections index","primary":true}]]}]]}],["$","$L5",null,{}]],[["$","script","script-0",{"src":"/_next/static/chunks/0_k13tbjtqnbv.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Dl3I45-eDVSzl72c5ZEIN"}
+8:null
